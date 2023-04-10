@@ -6,8 +6,4 @@ hello world
 
 github test
 
-<<<<<<< HEAD
-change no. 4
-=======
-change no. 1
->>>>>>> parent of d563647 (changed)
+Change - 1
